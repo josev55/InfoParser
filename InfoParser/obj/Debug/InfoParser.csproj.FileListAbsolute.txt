@@ -1,0 +1,30 @@
+\\psf\Home\Documents\Visual Studio 2012\Projects\InfoParser\InfoParser\bin\Debug\InfoParser.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\InfoParser\InfoParser\obj\Debug\InfoParser.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2012\Projects\InfoParser\InfoParser\obj\Debug\InfoParser.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\InfoParser\InfoParser\bin\Debug\InfoParser.exe
+\\psf\Home\Documents\Visual Studio 2012\Projects\InfoParser\InfoParser\obj\Debug\InfoParser.exe
+\\psf\Home\Documents\Visual Studio 2012\Projects\InfoParser\InfoParser\bin\Debug\HtmlAgilityPack.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\InfoParser\InfoParser\bin\Debug\HtmlAgilityPack.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\InfoParser\InfoParser\bin\Debug\HtmlAgilityPack.xml
+\\psf\Home\Documents\Visual Studio 2012\Projects\InfoParser\InfoParser\obj\Debug\Interop.Shell32.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\InfoParser\InfoParser\obj\Debug\InfoParser.csproj.ResolveComReference.cache
+\\psf\Home\Documents\Visual Studio 2012\Projects\InfoParser\InfoParser\bin\Debug\ICSharpCode.SharpZipLib.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\InfoParser\InfoParser\bin\Debug\SevenZipSharp.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\InfoParser\InfoParser\bin\Debug\NUnrar.dll
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\obj\Debug\Interop.Shell32.dll
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\obj\Debug\InfoParser.csproj.ResolveComReference.cache
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\obj\Debug\InfoParser.exe
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\obj\Debug\InfoParser.pdb
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\bin\Debug\InfoParser.exe
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\bin\Debug\InfoParser.pdb
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\bin\Debug\HtmlAgilityPack.dll
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\bin\Debug\HtmlAgilityPack.xml
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\obj\Debug\InfoParser.csprojResolveAssemblyReference.cache
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\bin\Debug\InfoParser.exe.config
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\bin\Debug\Ionic.Zip.dll
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\obj\Debug\InfoParser.Properties.Resources.resources
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\obj\Debug\InfoParser.csproj.GenerateResource.Cache
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\bin\Debug\app.js
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\bin\Debug\jquery.js
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\bin\Debug\tmp.js

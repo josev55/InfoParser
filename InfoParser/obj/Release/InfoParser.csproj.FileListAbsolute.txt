@@ -1,0 +1,17 @@
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\obj\Release\Interop.Shell32.dll
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\obj\Release\InfoParser.csproj.ResolveComReference.cache
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\obj\Release\InfoParser.Properties.Resources.resources
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\obj\Release\InfoParser.csproj.GenerateResource.Cache
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\bin\Release\app.js
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\bin\Release\jquery.js
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\bin\Release\tmp.js
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\bin\Release\InfoParser.dll.config
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\bin\Release\InfoParser.dll
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\bin\Release\InfoParser.pdb
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\bin\Release\HtmlAgilityPack.dll
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\bin\Release\Ionic.Zip.dll
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\bin\Release\HtmlAgilityPack.pdb
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\bin\Release\HtmlAgilityPack.xml
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\obj\Release\InfoParser.csprojResolveAssemblyReference.cache
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\obj\Release\InfoParser.dll
+C:\Users\josevildosola\Documents\Projects\InfoParser\InfoParser\obj\Release\InfoParser.pdb
